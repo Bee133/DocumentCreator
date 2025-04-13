@@ -5,7 +5,7 @@ const sequelize = require('./connection.js');
 const router = require('./routers/router');
 
 /**  */
-const PORT = 8080;
+const PORT = 0;
 /**  Экземпляр приложения  */
 const app = express();
 
